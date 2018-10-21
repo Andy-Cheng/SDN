@@ -47,8 +47,8 @@
     
 ## Q2 (wireshark)
 #### Using filter
-![](https://i.imgur.com/3xBkzsa.png =800x)
+![](https://i.imgur.com/3xBkzsa.png)
 #### Packet meta and content
-![](https://i.imgur.com/riP72To.png =800x)
+![](https://i.imgur.com/riP72To.png)
 #### Packet TCP stream
-![](https://i.imgur.com/p8WCuRV.png =400x)
+![](https://i.imgur.com/p8WCuRV.png)
